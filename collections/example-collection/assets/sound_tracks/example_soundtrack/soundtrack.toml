@@ -1,0 +1,47 @@
+# The unique identifier (UUID) must be unique!
+# Use linux command uuidgen to create a random UUID
+uuid = "8dd6127f-9ee8-430e-826c-b63657658b7b"
+
+# The name of the sound track (will be shown at the editor)
+name = "Example Soundtrack"
+
+# Use semantic versioning
+version = "1.0.0"
+
+# Use license identifiers (https://spdx.org/licenses/)
+license = "CC-BY-NC-4.0"
+license_attribution = """\
+  Track 1\
+  \
+  DOCTOR VOX - Hero: youtu.be/qNuC01Z3lrs\
+  Release: Argofox – Doctor-vox-hero\
+  License: https://creativecommons.org/licenses/by/3.0/\
+  A Creative Commons Attribution License (CC BY 3.0) states that the material can be shared, remixed and used commercially as long as you give appropriate credit.\
+  \
+  Track 2\
+  \
+  daPlaque - Dream: youtu.be/3QFcidG8YwU\
+  Release: Daplaque – Dream-by-daplaquefull-versionfree-download\
+  License: https://creativecommons.org/licenses/by/3.0/\
+  A Creative Commons Attribution License (CC BY 3.0) states that the material can be shared, remixed and used commercially as long as you give appropriate credit.\
+  """
+
+# The authors who has created the map (not necessarily all authors of the used textures, models, sounds, ...)
+authors = [
+    "Peter Penacka"
+]
+
+# Describes what your sound track is about (genre, style, tempo, ...)
+description = "Example sound track rocks"
+
+# Categories makes it possible to group your sound track with similar sound tracks
+categories = [
+    "comic",
+    "dark"
+]
+
+# The filenames of the tracks of this sound track
+tracks = [
+    "01 - DOCTOR VOX - Hero.ogg",
+    "02 - daPlaque - Dream.ogg"
+]

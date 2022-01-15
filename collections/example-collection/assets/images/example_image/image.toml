@@ -1,0 +1,30 @@
+# The unique identifier (UUID) must be unique!
+# Use linux command uuidgen to create a random UUID
+uuid = "6ca849f9-a60d-432e-b987-33a458f5a1d4"
+
+# The name of the image (will be shown at the editor)
+name = "Example Image"
+
+# Use semantic versioning
+version = "1.0.0"
+
+# Use license identifiers (https://spdx.org/licenses/)
+license = "CC-BY-NC-4.0"
+
+# The authors who has created the image
+authors = [
+    "Peter Penacka"
+]
+
+# Describes what your image is about
+description = "Fan art about the futuristic city in comic style"
+
+# Categories makes it possible to group your image with similar images
+categories = [
+    "futuristic city",
+    "city",
+    "atomic waste",
+    "comic"
+]
+
+filename = "big_buck_bunny_teaser.jpg"

@@ -1,0 +1,22 @@
+# The unique identifier (UUID) must be unique!
+# Use linux command uuidgen to create a random UUID
+uuid = "13a15e7f-5a7b-4f6c-b147-b0ea68656fb0"
+
+# The name of the font (will be shown at the editor)
+name = "Example Font"
+
+# Use semantic versioning
+version = "1.0.0"
+
+# Use license identifiers (https://spdx.org/licenses/)
+license = "CC-BY-NC-4.0"
+
+# The authors who has created the font
+authors = [
+    "Peter Penacka"
+]
+
+# The filename of the font:
+filename = "font.eot"
+# filename = "font.ttf"
+# filename = "font.woff"

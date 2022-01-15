@@ -1,0 +1,34 @@
+# The unique identifier (UUID) must be unique!
+# Use linux command uuidgen to create a random UUID
+uuid = "16bc51b9-123c-485c-866f-55dfc312889f"
+
+# The name of the texture (will be shown at the editor)
+name = "Example Texture"
+
+# Use semantic versioning
+version = "1.0.0"
+
+# Use license identifiers (https://spdx.org/licenses/)
+license = "CC-BY-NC-4.0"
+
+# The authors who has created the map (not necessarily all authors of the used textures, models, sounds, ...)
+authors = [
+    "Peter Penacka"
+]
+
+# Describes what your texture is about (genre, color, pattern, style, ...)
+description = "Brick stones in comic style"
+
+# Categories makes it possible to group your texture with similar textures
+categories = [
+    "comic",
+    "dark"
+]
+
+[[texture]]
+
+primary_texture = "asphalt1.jpg"
+normal_maps = "asphalt1_n.png"
+depth_maps = "asphalt1_h.png"
+specularity_maps = "asphalt1_s.png"
+#glow_maps = "asphalt1_g.png"

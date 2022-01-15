@@ -1,0 +1,28 @@
+# The unique identifier (UUID) must be unique!
+# Use linux command uuidgen to create a random UUID
+uuid = "9e30e151-9e2e-4d85-955b-29c6af0d4b59"
+
+# The name of the sound effect (will be shown at the editor)
+name = "Example Sound Effect"
+
+# Use semantic versioning
+version = "1.0.0"
+
+# Use license identifiers (https://spdx.org/licenses/)
+license = "CC-BY-NC-4.0"
+
+# The authors who has created the map (not necessarily all authors of the used textures, models, sounds, ...)
+authors = [
+    "Peter Penacka"
+]
+
+# Describes what your sound effect is about
+description = "Multiple barrels explodes"
+
+# Categories makes it possible to group your sound effect with similar sound effects
+categories = [
+    "barrel",
+    "explosion"
+]
+
+filename = "sound_audioaugust_chainsaw_attack.ogg"

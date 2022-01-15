@@ -1,0 +1,39 @@
+# The unique identifier (UUID) must be unique!
+# Use linux command uuidgen to create a random UUID
+uuid = "c52c1346-28ab-4fba-884c-d69118b1034a"
+
+# The name of the skybox (will be shown at the editor)
+name = "Example Skybox"
+
+# Use semantic versioning
+version = "1.0.0"
+
+# Use license identifiers (https://spdx.org/licenses/)
+license = " CC0-1.0"
+
+# The authors who has created the map (not necessarily all authors of the used textures, models, sounds, ...)
+authors = [
+    "Peter Penacka"
+]
+
+# Describes what your sky box is about
+description = "Cloudy sky over futuristic city in the hot dessert"
+
+# Categories makes it possible to group your sound effect with similar sound effects
+categories = [
+    "clouds",
+    "city",
+    "futuristic",
+    "dessert",
+    "hot"
+]
+
+# The filenames to the six textures of a skybox
+[[skybox]]
+
+bk = "black_bk.png"
+dn = "black_dn.png"
+ft = "black_ft.png"
+lf = "black_lf.png"
+rt = "black_rt.png"
+up = "black_up.png"

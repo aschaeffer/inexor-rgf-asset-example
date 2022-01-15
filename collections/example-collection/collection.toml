@@ -1,0 +1,23 @@
+# The unique identifier (UUID) must be unique!
+# Use linux command uuidgen to create a random UUID
+uuid = "0e6bb1c5-bbe0-4f2c-9bc3-0ce922a95ed0"
+
+# The name of the collection
+name = "Example Collection"
+
+# If exists, the homepage of the map is linked ingame
+homepage = "https://www.example-map.com/"
+
+# The persons who created and maintains this collection (not necessarily all authors of maps, models, skyboxes)
+maintainers = [
+    "Peter Penacka"
+]
+
+# Describes what this collection contains
+description = "This example shows the structure of an asset collection"
+
+# Categories makes it possible to group your collection with similar collections
+categories = [
+    "comic",
+    "dark"
+]

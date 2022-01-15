@@ -1,0 +1,27 @@
+# The unique identifier (UUID) must be unique!
+# Use linux command uuidgen to create a random UUID
+uuid = "9cc13bc5-47d2-4c36-a99a-7b02d70262a7"
+
+# The name of the icon (will be shown at the editor)
+name = "Example Icon"
+
+# Use semantic versioning
+version = "1.0.0"
+
+# Use license identifiers (https://spdx.org/licenses/)
+license = "CC-BY-NC-4.0"
+
+# The authors who has created the icon
+authors = [
+    "Peter Penacka"
+]
+
+# Describes what your icon is about
+description = "A brush"
+
+# Categories makes it possible to group your icon with similar icons or other assets
+categories = [
+    "brush"
+]
+
+filename = "brush.svg"

@@ -1,0 +1,33 @@
+# The unique identifier (UUID) must be unique!
+# Use linux command uuidgen to create a random UUID
+uuid = "0172d460-7579-42fd-8621-c556989b0c6f"
+
+# The name of the model (will be shown at the editor)
+name = "Example Model"
+
+# Use semantic versioning
+version = "1.0.0"
+
+# Use license identifiers (https://spdx.org/licenses/)
+license = "CC-BY-NC-4.0"
+
+# The authors who has created the model
+authors = [
+    "Peter Penacka"
+]
+
+# Describes what your model is about
+description = "Rusty barrels with atomic waste"
+
+# Categories makes it possible to group your model with similar models
+categories = [
+    "barrel",
+    "atomic waste",
+    "rusty"
+]
+
+# We use gltf which has file extension gltf
+filename = "model.gltf"
+
+# Binary encoded model in gltf has file extension glb
+# filename = "model.glb"

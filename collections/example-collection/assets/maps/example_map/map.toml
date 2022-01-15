@@ -1,0 +1,51 @@
+# The unique identifier (UUID) must be unique!
+# Use linux command uuidgen to create a random UUID
+uuid = "17abe499-ad7a-404b-9cbd-19955ef64734"
+
+# The name of the map
+name = "Example Map"
+
+# Use semantic versioning
+version = "1.0.0"
+
+# Use license identifiers (https://spdx.org/licenses/)
+license = "CC-BY-NC-4.0"
+
+# The authors who has created the map (not necessarily all authors of the used textures, models, sounds, ...)
+authors = [
+    "Peter Penacka"
+]
+
+# Describes what your map is about
+description = "In a futuristic city in the year 194857 A.D. nothing but nothing has survived."
+
+# Categories makes it possible to group your map with similar maps
+categories = [
+    "futuristic city",
+    "city",
+    "atomic waste"
+]
+
+# If exists, the homepage of the map is linked ingame
+homepage = "https://www.futuristic-map.com/"
+
+# The filename of the octree
+# https://inexor-vulkan-renderer.readthedocs.io/en/latest/development/reference/octree-file-format.html#format-specification
+octree = "map.nxoc"
+
+[[dependencies]]
+
+models = [
+    # Example Model
+    "0172d460-7579-42fd-8621-c556989b0c6f"
+]
+
+sounds = [
+    # Example Sound
+    "9e30e151-9e2e-4d85-955b-29c6af0d4b59"
+]
+
+textures = [
+    # Example Texture
+    "16bc51b9-123c-485c-866f-55dfc312889f"
+]
