@@ -41,8 +41,8 @@ models = [
     "0172d460-7579-42fd-8621-c556989b0c6f"
 ]
 
-sounds = [
-    # Example Sound
+sound_effects = [
+    # Example Sound Effect
     "9e30e151-9e2e-4d85-955b-29c6af0d4b59"
 ]
 
