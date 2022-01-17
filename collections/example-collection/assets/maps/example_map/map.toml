@@ -32,7 +32,7 @@ homepage = "https://www.futuristic-map.com/"
 
 # The filename of the octree
 # https://inexor-vulkan-renderer.readthedocs.io/en/latest/development/reference/octree-file-format.html#format-specification
-octree = "map.nxoc"
+filename = "map.nxoc"
 
 [[dependencies]]
 
