@@ -71,4 +71,6 @@ The folder structure is as following:
 * An asset repository can provide multiple assets of each asset type
 * A single asset can consist of multiple files (for example textures or skyboxes)
 * Meta-information about the asset must be provided
+  * You can provide license information about your asset (license identifier and license attribution text)
+  * You can provide versioning information about your asset (semantic versioning)
 * Extendable for future asset types
