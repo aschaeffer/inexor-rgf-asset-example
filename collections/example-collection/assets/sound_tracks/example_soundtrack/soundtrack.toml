@@ -10,7 +10,7 @@ version = "1.0.0"
 
 # Use license identifiers (https://spdx.org/licenses/)
 license = "CC-BY-NC-4.0"
-license_attribution = """\
+attribution = """\
   Track 1\
   \
   DOCTOR VOX - Hero: youtu.be/qNuC01Z3lrs\

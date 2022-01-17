@@ -10,6 +10,7 @@ version = "1.0.0"
 
 # Use license identifiers (https://spdx.org/licenses/)
 license = "CC-BY-NC-4.0"
+attribution = "'Example Map' by Peter Penacka is licensed under CC-BY-NC-4.0"
 
 # The authors who has created the map (not necessarily all authors of the used textures, models, sounds, ...)
 authors = [
